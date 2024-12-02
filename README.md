@@ -8,11 +8,26 @@ These projects are perfect for learners, hobbyists, or developers looking to imp
 
 ## Projects Included
 
-- **Password Generator**: A Java application that generates secure, random passwords using uppercase letters, lowercase letters, digits, and special characters. Users can specify the desired length of the password.
+### 1. Password Generator
+A Java application that generates secure, random passwords using uppercase letters, lowercase letters, digits, and special characters. Users can specify the desired length of the password.
 
-- **Tic-Tac-Toe Game**: A two-player console-based game of Tic-Tac-Toe, where players take turns marking their moves on a 3x3 grid. The game checks for winning conditions or a draw after each turn.
+### 2. Tic-Tac-Toe Game
+A two-player console-based game of Tic-Tac-Toe, where players take turns marking their moves on a 3x3 grid. The game checks for winning conditions or a draw after each turn.
 
-- **Advanced Calculator**: A versatile Java-based calculator that supports basic arithmetic operations (addition, subtraction, multiplication, division) along with advanced functions such as square roots, logarithms, trigonometric functions (sin, cos, tan), factorials, prime number checks, and Fibonacci sequence generation.
+### 3. Advanced Calculator
+A versatile Java-based calculator that supports basic arithmetic operations (addition, subtraction, multiplication, division) along with advanced functions such as square roots, logarithms, trigonometric functions (sin, cos, tan), factorials, prime number checks, and Fibonacci sequence generation.
+
+### 4. Rock-Paper-Scissors Game
+A simple, interactive console-based implementation of the classic Rock-Paper-Scissors game. Players can compete against the computer, which uses random choices.
+
+### 5. SIP Calculator
+A Java-based SIP (Systematic Investment Plan) calculator that helps users calculate the expected returns on their investments. It includes features to adjust monthly contributions, interest rates, and investment duration.
+
+### 6. Currency Converter
+A Java program that converts currencies based on user input and predefined exchange rates. This application demonstrates the use of conditionals and switch-case statements.
+
+### 7. Bindaas Number Guesser
+An interactive game where the computer generates a random number within a range, and the player tries to guess it. After each guess, the program provides hints to the player to help them reach the correct answer.
 
 ## Features
 
@@ -48,5 +63,25 @@ These projects are perfect for learners, hobbyists, or developers looking to imp
      javac AdvancedCalculator.java
      java AdvancedCalculator
      ```
+   - For the Rock-Paper-Scissors Game:
+     ```bash
+     javac RockPaperScissors.java
+     java RockPaperScissors
+     ```
+   - For the SIP Calculator:
+     ```bash
+     javac SIPCalculator.java
+     java SIPCalculator
+     ```
+   - For the Currency Converter:
+     ```bash
+     javac CurrencyConverter.java
+     java CurrencyConverter
+     ```
+   - For the Bindaas Number Guesser:
+     ```bash
+     javac NumberGuesser.java
+     java NumberGuesser
+     ```
 
---
+---
